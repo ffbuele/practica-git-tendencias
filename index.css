@@ -10,13 +10,14 @@
     text-align: center;
 }
 
+.loading {
+    align-items: center;
+    display: flex;
+}
+
 .square {
-    padding: 5px 5px;
+    margin: 5px 5px;
     width: 100px; 
     height: 100px; 
     background: #428bca;
-}
-
-.loading {
-    display: flex;
 }
