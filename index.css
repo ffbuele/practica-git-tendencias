@@ -1,0 +1,22 @@
+.hola {
+    color: red;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.cuerpo {
+    text-align: center;
+}
+
+.square {
+    padding: 5px 5px;
+    width: 100px; 
+    height: 100px; 
+    background: #428bca;
+}
+
+.loading {
+    display: flex;
+}
