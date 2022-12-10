@@ -1,0 +1,42 @@
+* {
+    background-color: bisque;
+    padding: 5px 10px 10px 10px;
+}
+
+.titulo {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.nav {
+    display: flex;
+    background-color: rgba(107, 104, 109, 0.345);
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.nav-style {
+    text-transform: uppercase;
+    text-align: center;
+    width: 100px;
+    margin-left: 12px;
+    background-color: rgb(210, 187, 239);
+    padding: 5px;
+    border-radius: 10px;
+    border: solid black 0.5px;
+    font-weight: bold;
+}
+
+.image {
+    text-align: center;
+}
+
+.footer {
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-geometrico-plano_23-2148967370.jpg?w=2000");
+    border: solid red 1.5px;
+    border-radius: 4px;
+}
+
+li {
+    background: none;
+}
